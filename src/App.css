@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.story {
+  border: 1px solid black;
+  margin: 5px;
+  width: 100%;
+  text-align: justify;
+  padding-top: 5px;
+  padding-left: 10px;
+}
